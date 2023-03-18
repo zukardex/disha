@@ -7,10 +7,6 @@ if(isset($_GET['nmbr']) &&isset($_GET['networks']) && isset($_GET['strengths']))
     //counting networks
     networks= explode($_GET['networks'], '%2C');
     strengths= explode($_GET['strengths'], '%2C');
-    if(count(networks) == count(strengths)){
-        //matches
-        
-    }
 
 }
 
