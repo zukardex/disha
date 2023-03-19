@@ -14,6 +14,6 @@ Using the data delivered by the hardware part, the current location of the patie
 
 
 ##Files index
-submitLoc.php processes the location and finds the room required. 
-test.php handles the data to test submitLoc.php
-esp32.ino on uploading to the esp32 will return the available wifi networks and theircorresponding signal strengths, which is then feeded to the backend (submitLoc.php) for further processing.
+**submitLoc.php** processes the location and finds the room required. 
+**test.php** handles the data to test submitLoc.php
+**esp32.ino* on uploading to the esp32 will return the available wifi networks and theircorresponding signal strengths, which is then feeded to the backend (submitLoc.php) for further processing.
