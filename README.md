@@ -24,4 +24,5 @@ Using the data delivered by the hardware part, the current location of the patie
 
 ## Range Signal Strength Indicator
 ![image](https://github.com/zukardex/disha/assets/27881577/3d79d3c3-8df4-4d16-bdd8-461bf5397dec)
+
 The less negative the value of RSSI is, the more strength it has at the point of scanning. But that doesn't mean the station of scanning is the closest to the WiFi AP with the least negative RSSI, since the AP may or may not be of the same kind, there may be problem with penetration of signals through various objects and this may cause unexpected results.
